@@ -1,4 +1,5 @@
 ---
+layout: default
 description: Game Engine Developer & Independent Game and App Maker
 permalink: /about/
 lang: en
