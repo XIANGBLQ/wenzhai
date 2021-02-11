@@ -1,19 +1,4 @@
-<<<<<<< HEAD
 title: 執劍行天下
 description: 執劍行天下.
 show_downloads: false
 theme: jekyll-theme-modernist
-=======
-title      : 三岁书屋
-lang       : zh
-description: 文摘|笔记
-copyright  : © 2018 - 2021 xiangblq All Rights Reserved
-
-nav:
- - name: 中文
-   link: /
- - name: 编程人生
-   link: /code-life/
- - name: En
-   link: /about/
->>>>>>> 8183a5efab15b2440a50f59517db3145d96a01aa
