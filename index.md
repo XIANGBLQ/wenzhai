@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to code-life](./code-life.html).
 
-[Link to about-en](/about-en.html).
+[Link to about-en](.pages/about-en.html).
 
 There should be whitespace between paragraphs.
 
