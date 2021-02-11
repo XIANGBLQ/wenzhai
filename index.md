@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](pages/about-en.html).
+[Link to another page](./code-life.html).
 
 There should be whitespace between paragraphs.
 
