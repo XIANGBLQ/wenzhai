@@ -1,12 +1,12 @@
-title      : scott.cgi
+title      : 三岁书屋
 lang       : zh
-description: 编程写作 / 迭代认知 / 执行计划
-copyright  : © 2018 - 2021 scott.cgi All Rights Reserved
+description: 文摘|笔记
+copyright  : © 2018 - 2021 xiangblq All Rights Reserved
 
 nav:
  - name: 中文
    link: /
  - name: 编程人生
-   link: wenzhai/pages/code-life/
+   link: /code-life/
  - name: En
-   link: wenzhai/pages/about/
+   link: /about/
