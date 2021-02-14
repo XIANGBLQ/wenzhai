@@ -101,3 +101,40 @@ But we can't lose the mood that we want to explore
 
 [ページに入る→](./pages/riwen/riwen.html)
 
+
+
+### 温故而知新
+
+```
+人的精力是有限的
+学习是持续不断的
+若是不断学习不断遗忘
+那也就变成了一个疲累的过程
+```
+
+[进入页面→](./pages/biji/biji.html)
+
+
+
+> 尝试搭建的 **githubpage** 
+>
+> 个人主页：[XIANGBLQ](https://xiangblq.github.io/)
+>
+> 个人简历：[RESUME]()
+>
+> 文章页面：[是人间笑话](https://yesterlife.github.io/)
+> 
+>
+>
+> 尝试搭建的 **个人网站**
+>
+> 博客网站（暂停维护）：[不一止集]()
+>
+> 
+>
+> 与我 **交流联系**
+>
+> EMAIL：chare405@foxmail.com
+
+
+
