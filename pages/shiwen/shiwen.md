@@ -20,18 +20,20 @@ layout: default
 
 [进入页面→](./pages/shiwen/shici/shici.html)
 
+---
 
-
-##古文
+## 古文
 
 
 
 [进入页面→](./pages/shiwen/guwen/guwen.html)
 
-
+---
 
 ## 经典
 
 
 
 [进入页面→](./pages/shiwen/dianji/dianji.html)
+
+---
