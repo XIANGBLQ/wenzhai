@@ -114,7 +114,7 @@ But we can't lose the mood that we want to explore
 
 [进入页面→](./pages/biji/biji.html)
 
-
+---
 
 > 尝试搭建的 **githubpage** 
 >
@@ -123,18 +123,23 @@ But we can't lose the mood that we want to explore
 > 个人简历：[RESUME]()
 >
 > 文章页面：[是人间笑话](https://yesterlife.github.io/)
-> 
->
->
+
+---
+
 > 尝试搭建的 **个人网站**
 >
 > 博客网站（暂停维护）：[不一止集]()
 >
-> 
->
+
+---
+
 > 与我 **交流联系**
 >
 > EMAIL：chare405@foxmail.com
 
+---
 
+```
+念念不忘，必有回响
+```
 
