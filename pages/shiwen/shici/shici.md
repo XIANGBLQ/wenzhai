@@ -23,4 +23,16 @@ layout: default
 
 
 
+> [清谈可以饱，梦想接无由。](./shangxi/韩愈-dong-ting-hu.html)——韩愈
+>
+> ```
+> 追求梦想，脚踏实地。
+> 现在清谈虽可驱散饿感，
+> 平生梦想却是来之无由。
+> ```
+
+
+
+
+
 [back→](https://xiangblq.github.io/wenzhai/pages/shiwen/shiwen.html)
