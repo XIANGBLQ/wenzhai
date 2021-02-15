@@ -4,23 +4,23 @@ layout: default
 
 ## 赋
 
-> [勿以有限身，常供无尽愁。](./shangxi/2021-1-1-wu-yi.html)——陆游
+> [落霞与孤鹜齐飞，秋水共长天一色。](./shangxi/fu/2021-1-1-luo-xia.html)——王勃
 >
 > ```
-> 不要用有限的生命，经常供给没有尽头的忧愁
-> 指人生短暂，应该保持乐观
+> 
 > ```
 
 
 
 ## 文
 
-> [庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣。](./shangxi/2021-1-1-ting-you.html)——归有光
+> [庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣。](./shangxi/wen/2021-1-1-ting-you.html)——归有光
 >
 > ```
-> 不要用有限的生命，经常供给没有尽头的忧愁
-> 指人生短暂，应该保持乐观
+> 
 > ```
 
 
+
+[back→](https://xiangblq.github.io/wenzhai/pages/shiwen/shiwen.html)
 
