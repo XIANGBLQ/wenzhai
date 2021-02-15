@@ -16,7 +16,7 @@ layout: default
 
 
 
-[进入页面→](./pages/qikan/renmin/renmin.html)
+[进入页面→](./renmin/renmin.html)
 
 ---
 
@@ -26,7 +26,7 @@ layout: default
 
 
 
-[进入页面→](./pages/qikan/guangming/guangming.html)
+[进入页面→](./guangming/guangming.html)
 
 ---
 
@@ -36,7 +36,7 @@ layout: default
 
 
 
-[进入页面→](./pages/qikan/duzhe/duzhe.html)
+[进入页面→](./duzhe/duzhe.html)
 
 ---
 
@@ -46,7 +46,7 @@ layout: default
 
 
 
-[进入页面→](./pages/qikan/geyan/geyan.html)
+[进入页面→](./geyan/geyan.html)
 
 ---
 
