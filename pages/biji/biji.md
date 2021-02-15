@@ -16,7 +16,7 @@ layout: default
 
 
 
-[进入页面→](./pages/biji/zhuanye/zhuanye.html)
+[进入页面→](./zhuanye/zhuanye.html)
 
 ---
 
@@ -26,7 +26,7 @@ layout: default
 
 
 
-[进入页面→](./pages/biji/jichu/jichu.html)
+[进入页面→](./jichu/jichu.html)
 
 ---
 
@@ -36,6 +36,6 @@ layout: default
 
 
 
-[进入页面→](./pages/biji/aihao/aihao.html)
+[进入页面→](./aihao/aihao.html)
 
 ---
