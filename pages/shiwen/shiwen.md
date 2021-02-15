@@ -18,7 +18,7 @@ layout: default
 
 
 
-[进入页面→](./pages/shiwen/shici/shici.html)
+[进入页面→](./shici/shici.html)
 
 ---
 
