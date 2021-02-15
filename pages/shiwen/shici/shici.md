@@ -13,7 +13,7 @@ layout: default
 
 
 
-> [相逢意气为君饮，系马高楼垂柳边。](./shangxi/王维-shao-nian-xing.html)——陆游
+> [相逢意气为君饮，系马高楼垂柳边。](./shangxi/王维-shao-nian-xing.html)——王维
 >
 > ```
 > 片刻相逢，话语投机，
