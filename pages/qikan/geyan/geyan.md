@@ -2,51 +2,16 @@
 layout: default
 ---
 
-> 如果说期刊是文章的集合
+## 【2010】24期 
+
+> [俾斯麦说：“政治是一种可能性的艺术”](./wenzhang/2010-24-敲开最好的可能.html)——刘瑜
 >
-> 那我们能从这个集合中
->
-> 体会到人间百态
->
-> 看到各类文体碰撞，各种文风交汇
+> ```
+> 俾斯麦说：“政治是一种可能性的艺术”，
+> 那么我们能敲开人性中的哪种可能性，
+> 说到底还是取决于我们在缔造什么样的政治。
+> ```
 
 
 
-## 人民日报
-
-
-
-[进入页面→](./pages/qikan/renmin/renmin.html)
-
----
-
-
-
-## 光明日报
-
-
-
-[进入页面→](./pages/qikan/guangming/guangming.html)
-
----
-
-
-
-## 读者
-
-
-
-[进入页面→](./pages/qikan/duzhe/duzhe.html)
-
----
-
-
-
-## 格言
-
-
-
-[进入页面→](./pages/qikan/geyan/geyan.html)
-
----
-
+[back→](https://xiangblq.github.io/wenzhai/pages/qikan/qikan.html)
