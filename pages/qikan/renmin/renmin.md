@@ -2,51 +2,15 @@
 layout: default
 ---
 
-> 如果说期刊是文章的集合
+## 2021.02.15
+
+> [历史是最好的教科书，党史是最好的营养剂。](./wenzhang/2021-02-15-红色基因就是要传承.html)——白弈非
 >
-> 那我们能从这个集合中
->
-> 体会到人间百态
->
-> 看到各类文体碰撞，各种文风交汇
+> ```
+> 历史是最好的教科书，党史是最好的营养剂。
+> 鉴往可以知来。
+> ```
 
 
 
-## 人民日报
-
-
-
-[进入页面→](./pages/qikan/renmin/renmin.html)
-
----
-
-
-
-## 光明日报
-
-
-
-[进入页面→](./pages/qikan/guangming/guangming.html)
-
----
-
-
-
-## 读者
-
-
-
-[进入页面→](./pages/qikan/duzhe/duzhe.html)
-
----
-
-
-
-## 格言
-
-
-
-[进入页面→](./pages/qikan/geyan/geyan.html)
-
----
-
+[back→](https://xiangblq.github.io/wenzhai/pages/qikan/qikan.html)
