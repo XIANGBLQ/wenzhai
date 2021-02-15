@@ -26,7 +26,7 @@ layout: default
 
 
 
-[进入页面→](./pages/shiwen/guwen/guwen.html)
+[进入页面→](./guwen/guwen.html)
 
 ---
 
@@ -34,6 +34,6 @@ layout: default
 
 
 
-[进入页面→](./pages/shiwen/dianji/dianji.html)
+[进入页面→](./dianji/dianji.html)
 
 ---
