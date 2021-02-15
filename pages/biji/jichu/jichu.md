@@ -2,13 +2,7 @@
 layout: default
 ---
 
-> 如果说期刊是文章的集合
->
-> 那我们能从这个集合中
->
-> 体会到人间百态
->
-> 看到各类文体碰撞，各种文风交汇
+
 
 
 
@@ -22,31 +16,31 @@ layout: default
 
 
 
-## 光明日报
+## 高中物理基础
 
 
 
-[进入页面→](./guangming/guangming.html)
-
----
-
-
-
-## 读者
-
-
-
-[进入页面→](./duzhe/duzhe.html)
+[进入页面→](./biji/wuli/高中物理基础.html)
 
 ---
 
 
 
-## 格言
+## 高中化学基础
 
 
 
-[进入页面→](./geyan/geyan.html)
+[进入页面→](./biji/huaxue/高中化学基础.html)
+
+---
+
+
+
+## 英语语法基础
+
+
+
+[进入页面→](./biji/yingyu/英语语法基础.html)
 
 ---
 
