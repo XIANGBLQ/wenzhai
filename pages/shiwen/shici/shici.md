@@ -13,4 +13,4 @@ layout: default
 
 
 
-[back→](./pages/shiwen/shiwen.html)
+[back→](https://xiangblq.github.io/wenzhai/pages/shiwen/shiwen.html)
