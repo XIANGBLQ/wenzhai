@@ -54,27 +54,53 @@ layout: default
 
 
 
-## 土壤污染与防治工程
+## 环境生态学
 
 
 
-[进入页面→](./biji/turang/土壤污染与防治工程.html)
+[进入页面→](./biji/shengtai/环境生态学.html)
 
 ---
 
 
 
+## 环境监测
 
 
 
+[进入页面→](./biji/jiance/环境监测.html)
+
+---
 
 
 
+## 环境管理与环境法规
 
 
 
+[进入页面→](./biji/guanli/环境管理与环境法规.html)
+
+---
 
 
+
+## 环境生物化学
+
+
+
+[进入页面→](./biji/shenghua/环境生物化学.html)
+
+---
+
+
+
+## 环境评价与规划
+
+
+
+[进入页面→](./biji/huanping/环境评价与规划.html)
+
+---
 
 
 
