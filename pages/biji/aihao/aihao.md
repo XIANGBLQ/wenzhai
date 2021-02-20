@@ -2,37 +2,68 @@
 layout: default
 ---
 
-## 诗
 
-> [勿以有限身，常供无尽愁。](./shangxi/陆游-huan-du.html)——陆游
->
-> ```
-> 不要用有限的生命，经常供给没有尽头的忧愁。
-> 指人生短暂，应该保持乐观。
-> ```
+
+## 政治（学业-备研-专攻）
 
 
 
-> [相逢意气为君饮，系马高楼垂柳边。](./shangxi/王维-shao-nian-xing.html)——王维
->
-> ```
-> 片刻相逢，话语投机，
-> 彼此倾心，一见如故。
-> 系马垂柳边，酒饮千杯不嫌多。
-> ```
+[进入页面→](./biji/zhengzhi/政治.html)
+
+---
 
 
 
-> [清谈可以饱，梦想接无由。](./shangxi/韩愈-dong-ting-hu.html)——韩愈
->
-> ```
-> 追求梦想，脚踏实地。
-> 现在清谈虽可驱散饿感，
-> 平生梦想却是来之无由。
-> ```
+## CAD制图（学业-工作-专攻）
+
+
+
+[进入页面→](./biji/CAD/CAD.html)
+
+---
+
+
+
+## 平面设计（基础-工作-涉及）
+
+
+
+[进入页面→](./biji/pingmian/平面设计.html)
+
+---
+
+
+
+## 影像（基础-兴趣-涉及）
+
+
+
+[进入页面→](./biji/yingxiang/影像.html)
+
+---
+
+
+
+## 新媒体、策划运营（基础-工作-涉及）
+
+
+
+[进入页面→](./biji/xinmeiti/新媒体.html)
+
+---
+
+
+
+## 计算机、编程（基础-兴趣-涉及）
+
+
+
+[进入页面→](./biji/biancheng/编程.html)
+
+---
 
 
 
 
 
-[back→](https://xiangblq.github.io/wenzhai/pages/shiwen/shiwen.html)
+[back→](https://xiangblq.github.io/wenzhai/pages/biji/biji.html)
